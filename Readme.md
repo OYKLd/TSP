@@ -3,7 +3,7 @@
 Ce projet implémente une solution au problème du voyageur de commerce (TSP) en utilisant une méthode de descente locale. Le but est de trouver le chemin le plus court pour visiter un ensemble de villes données, en passant par chaque ville exactement une fois et en revenant à la ville de départ.
 
 ## Auteurs
-- OUATTARA YEO KASSAHM Lydie
+- OUATTARA YEO KASSAHM LYDIE
 
 ## Structure du Projet
 - `TSP.py` : Script principal contenant l'implémentation de l'algorithme
